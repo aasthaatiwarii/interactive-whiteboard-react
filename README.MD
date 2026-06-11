@@ -23,27 +23,26 @@ An interactive whiteboard application built with React and HTML5 Canvas that all
 * Vite
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### Main Interface
 
-![Main Interface](./screenshots/main-interface.png)
+![Main Interface](./Screenshots/main-interface.png)
 
 ### Drawing Example
 
-![Drawing Example](./screenshots/drawing sexample.png)
+![Drawing Example](./Screenshots/drawing-example.png)
 
 ### Undo Feature
 
-![Undo Feature](./screenshots/UNDO.png)
+![Undo Feature](./Screenshots/UNDO.png)
 
 ### Redo Feature
 
-![Redo Feature](./screenshots/REDO.png)
+![Redo Feature](./Screenshots/REDO.png)
 
 ### Download Feature
 
-![Download Feature](./screenshots/download-feature.png)
+![Download Feature](./Screenshots/download-feature.png)
 
 
 ## 📦 Installation
